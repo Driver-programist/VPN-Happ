@@ -1,0 +1,53 @@
+# ==============================================
+# 🚀 VPN ПОДПИСКА ОТ TVFROMSPB
+# ==============================================
+# profile-title: 🚀 VPN ОТ TVFROMSPB
+# profile-update-interval: 1
+# supported-clients: v2rayNG, NekoBox, Hiddify, Sing-box, Clash Meta
+# Date/Time: 2026-07-16 / 20:00 (Moscow)
+# Количество: 3
+# ==============================================
+# 📌 ИНСТРУКЦИЯ:
+# 1. Скопируй эту ссылку в клиент (NekoBox/v2rayNG/Hiddify)
+# 2. Выбери сервер из списка
+# 3. Наслаждайся!
+# ==============================================
+# 🌍 ДОСТУПНЫЕ СТРАНЫ:
+# 🇩🇪 Германия - TCP (без шифрования, быстро)
+# 🇫🇷 Франция - Reality (маскировка, YT без рекламы)
+# 🇫🇮 Финляндия - WebSocket (обход DPI)
+# ==============================================
+
+# ---------- 🇩🇪 ГЕРМАНИЯ (TCP) ----------
+# 🟢 Статус: РАБОТАЕТ
+# ⚡ Скорость: Высокая
+# 🔒 Шифрование: Нет (быстро)
+# 📦 Протокол: VLESS + TCP
+vless://47883fd8-0478-414f-8230-6eeecedc234e@85.192.28.199:46235?type=tcp&encryption=none&security=none#🇩🇪%20Германия%20(TCP)%20⚡
+
+# ---------- 🇫🇷 ФРАНЦИЯ (REALITY) ----------
+# 🟢 Статус: РАБОТАЕТ
+# ⚡ Скорость: Средняя
+# 🔒 Шифрование: Reality (маскировка)
+# 🎯 Особенность: YouTube без рекламы
+# 📦 Протокол: VLESS + Reality
+vless://7fa3a22c-0c3b-4085-8a21-aa45b1d17f4a@f1.slynetbest.ru:443?type=tcp&security=reality&sni=f1.slynetbest.ru&pbk=LrRPBPaA6ZKt-jkMZc1S5jfknIkxcNTLCHEplbk7IX0&sid=b77bb35941bd3068&fp=firefox&flow=xtls-rprx-vision&encryption=none#🇫🇷%20Франция%20(Reality)%20🎯
+
+# ---------- 🇫🇮 ФИНЛЯНДИЯ (WEBSOCKET) ----------
+# 🟡 Статус: ТЕСТОВЫЙ (может работать нестабильно)
+# ⚡ Скорость: Средняя
+# 🔒 Шифрование: Нет
+# 🎯 Особенность: Обход DPI (для стран с цензурой)
+# 📦 Протокол: VLESS + WebSocket
+vless://b049a690-f53e-4641-9f33-2b97cfa50f43@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮%20Финляндия%20(WS)%20🌐
+
+# ==============================================
+# 📊 СТАТИСТИКА:
+# ✅ Всего серверов: 3
+# 🟢 Работает: 2 (Германия, Франция)
+# 🟡 Тестовый: 1 (Финляндия)
+# 📅 Обновлено: 2026-07-16
+# ==============================================
+# 🔗 Источник: github.com/TVFROMSPB/vpn-subscription
+# 📧 Контакты: @TVFROMSPB (Telegram)
+# ==============================================
