@@ -49,10 +49,19 @@ vless://7fa3a22c-0c3b-4085-8a21-aa45b1d17f4a@f1.slynetbest.ru:443?type=tcp&secur
 # 📦 Протокол: VLESS + WebSocket
 vless://b049a690-f53e-4641-9f33-2b97cfa50f43@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮%20Финляндия%20(WS)%20🌐
 
+# ---------- 🇺🇸 США (TCP + REALITY) ----------
+vless://7fa3a22c-0c3b-4085-8a21-aa45b1d17f4a@tspro-project.store:8443?type=tcp&security=reality&sni=tspro-project.store&pbk=lAB8CevQ1kwbUsRTtr_pF3y8yTRUALz8YBXRFpa3z2Y&sid=38759b4c30f844&spx=/dNTUDl43eiChlec&fp=firefox&flow=xtls-rprx-vision&encryption=none#🇺🇸%20США%20(Reality)%20⚡
+
+# ---------- 🇺🇸 США (gRPC + REALITY) ----------
+vless://7fa3a22c-0c3b-4085-8a21-aa45b1d17f4a@tspro-project.store:9443?type=grpc&security=reality&sni=store.steampowered.com&pbk=lAB8CevQ1kwbUsRTtr_pF3y8yTRUALz8YBXRFpa3z2Y&sid=faeb210848b180d9&fp=firefox&serviceName=EventStreamService&encryption=none#🇺🇸%20США%20(gRPC)%20🌐
+
+# ---------- 🇺🇸 США (SHADOWSOCKS) ----------
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸%20США%20(Shadowsocks)%20🔒
+
 # ==============================================
 # 📊 СТАТИСТИКА:
-# ✅ Всего серверов: 4
-# 🟢 Работает: 3 (Германия, Венгрия, Франция)
+# ✅ Всего серверов: 7
+# 🟢 Работает: 6 (Германия, Венгрия, Франция, США)
 # 🟡 Тестовый: 1 (Финляндия)
 # 📅 Обновлено: 2026-07-16
 # ==============================================
