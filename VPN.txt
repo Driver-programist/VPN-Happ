@@ -4,7 +4,7 @@
 # profile-title: 🚀 VPN ОТ TVFROMSPB
 # profile-update-interval: 1
 # supported-clients: v2rayNG, NekoBox, Hiddify, Sing-box, Clash Meta
-# Date/Time: 2026-07-16 / 20:00 (Moscow)
+# Date/Time: 2026-07-16 / 22:06 (Moscow)
 # Количество: 3
 # ==============================================
 # 📌 ИНСТРУКЦИЯ:
@@ -17,6 +17,7 @@
 # 🇭🇺 Венгрия - TCP
 # 🇫🇷 Франция - Reality (маскировка, YT без рекламы)
 # 🇫🇮 Финляндия - WebSocket (обход DPI)
+# 🇺🇲 США
 # ==============================================
 
 # ---------- 🇩🇪 ГЕРМАНИЯ (TCP) ----------
